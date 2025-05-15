@@ -1,0 +1,1 @@
+bun hexo clean && bun hexo g && bun hexo d
